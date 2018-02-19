@@ -6,11 +6,11 @@
 
 *Your Description* - Please provide the following in this order:
 
-1. A full description of the bug and how it affects the game. If it only happens in certain scinarios or with specific game elements, please state those too.
-2. A nubered list stating how to produce the bug. 
+1. A full description of the bug and how it affects the game. If it only happens in certain scenarios or with specific game elements, please state those too.
+2. A numbered list stating how to reproduce the bug. 
 3. How often the bug occurs.
-4. How to fix the bug or a suggestion (optional)
+4. How to fix the bug or a suggestion (optional).
 
 ---
 
-Reporting a bugs are important to the sustainability of this game. Please enchorage reporting bugs here to others.
+Reporting bugs is important to the sustainability of this game. Please enourage reporting bugs here to others.
